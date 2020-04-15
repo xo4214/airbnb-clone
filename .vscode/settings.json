@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/johnkim/.local/share/virtualenvs/airbnb-clone-s5rjpCYn/bin/python",
+    "python.formatting.provider": "black"
+}
